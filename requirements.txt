@@ -1,0 +1,5 @@
+Flask
+tensorflow==2.15.0
+numpy
+scipy
+Pillow
